@@ -3,4 +3,4 @@ This project analyses 1,000 customer records to identify patterns in purchasing 
 
 # Dataset 
 
-<a href="[https://github.com/kh83harsh-afk/Data-Analysis-Project/blob/main/Dataset.xlsx](https://github.com/kh83harsh-afk/E-Commerce-Customer-Behavior-Analysis/blob/main/Dataset.xlsx)">Dataset</a>
+<a href="https://github.com/kh83harsh-afk/E-Commerce-Customer-Behavior-Analysis/blob/main/Dataset.xlsx">Dataset</a>
